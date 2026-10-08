@@ -1,7 +1,5 @@
 # COMP3020 Group Project – Steam reviews of controversial games
 
-Group [NUMBER]: [NAME 1], [NAME 2], [NAME 3]
-
 We looked at Steam reviews for 24 games that had a public controversy (plus a few well-liked
 games as a comparison) to see when review bombs happen, what people complain about, and whether
 the same players turn up across games. The report is `COMP3020_Report.pdf` and the poster is
