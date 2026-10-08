@@ -1,0 +1,25 @@
+appid,game,release_date,genres,developer,publisher,is_free,price_aud,total_reviews,total_positive,total_negative,review_score_desc
+553850,Helldivers 2,"8 Feb, 2024",Action,Arrowhead Game Studios,PlayStation Publishing LLC,False,59.95,822891,662014,160877,Very Positive
+949230,Cities Skylines II,"24 Oct, 2023",Simulation,Iceflake Studios|Colossal Order,Paradox Interactive,False,69.95,46707,26181,20526,Mixed
+1716740,Starfield,"5 Sep, 2023",RPG,Bethesda Game Studios,Bethesda Softworks,False,79.95,118880,66761,52119,Mixed
+2357570,Overwatch 2,"10 Aug, 2023",Action|Free To Play,"Blizzard Entertainment, Inc.","Blizzard Entertainment, Inc.",True,0.0,171127,70207,100920,Mixed
+1623730,Palworld,"9 Jul, 2026",Action|Adventure|Indie|RPG,Pocketpair,Pocketpair,False,43.95,208501,199656,8845,Overwhelmingly Positive
+1272080,Payday 3,"21 Sep, 2023",Action|Adventure|RPG,Starbreeze Studios,Starbreeze Entertainment,False,44.25,41585,18576,23009,Mixed
+2344520,Diablo IV,"17 Oct, 2023",Action|Adventure|Casual|Massively Multiplayer|RPG,"Blizzard Entertainment, Inc.","Blizzard Entertainment, Inc.",False,74.95,26978,18379,8599,Mixed
+1294810,Redfall,"1 May, 2023",Action|Adventure,Arkane Austin,Bethesda Softworks,False,68.95,3073,1192,1881,Mostly Negative
+2853730,Skull and Bones,"22 Aug, 2024",Action|RPG,Ubisoft Singapore,Ubisoft,False,41.95,2378,1617,761,Mixed
+315210,Suicide Squad KTJL,"2 Feb, 2024",Action,Rocksteady Studios,Warner Bros. Games,False,104.95,10749,6689,4060,Mixed
+2215430,Ghost of Tsushima,"16 May, 2024",Action|Adventure,Sucker Punch Productions|Nixxes Software,PlayStation Publishing LLC,False,94.95,52804,49597,3207,Very Positive
+990080,Hogwarts Legacy,"10 Feb, 2023",Action|Adventure|RPG,Avalanche Software,Warner Bros. Games,False,89.95,181700,165250,16450,Very Positive
+1086940,Baldur's Gate 3,"3 Aug, 2023",Adventure|RPG|Strategy,Larian Studios,Larian Studios,False,89.95,505336,489218,16118,Overwhelmingly Positive
+1245620,Elden Ring,"24 Feb, 2022",Action|RPG,"FromSoftware, Inc.","FromSoftware, Inc.|Bandai Namco Entertainment",False,89.95,572728,537841,34887,Very Positive
+730,Counter-Strike 2,"21 Aug, 2012",Action|Free To Play,Valve,Valve,True,0.0,2622613,2254043,368570,Very Positive
+440,Team Fortress 2,"10 Oct, 2007",Action|Free To Play,Valve,Valve,True,0.0,742918,668782,74136,Very Positive
+2246340,Monster Hunter Wilds,"27 Feb, 2025",Action|Adventure|RPG,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",False,62.95,121740,83340,38400,Mixed
+1285190,Borderlands 4,"11 Sep, 2025",Action|Adventure|RPG,Gearbox Software,2K,False,109.95,60369,35801,24568,Mixed
+1517290,Battlefield 2042,"19 Nov, 2021",Action|Adventure|Casual,DICE,Electronic Arts,False,8.99,133235,59572,73663,Mixed
+3159330,Assassin's Creed Shadows,"19 Mar, 2025",Action|Adventure|RPG,Ubisoft Quebec|Ubisoft Belgrade|Ubisoft Bordeaux|Ubisoft Bucharest & Craiova|Ubisoft Chengdu|Ubisoft Montpellier|Ubisoft Montreal|Ubisoft Osaka|Ubisoft Philippines|Ubisoft Shanghai|Ubisoft Singapore|Ubisoft Sofia|Ubisoft Ukraine,Ubisoft,False,39.98,16599,12720,3879,Mostly Positive
+1771300,Kingdom Come Deliverance II,"4 Feb, 2025",Action|Adventure|RPG,Warhorse Studios,Deep Silver,False,35.98,85770,79695,6075,Very Positive
+1091500,Cyberpunk 2077,"9 Dec, 2020",RPG,CD PROJEKT RED,CD PROJEKT RED,False,89.95,418977,372838,46139,Very Positive
+275850,No Man's Sky,"12 Aug, 2016",Action|Adventure,Hello Games,Hello Games,False,87.95,235990,197222,38768,Very Positive
+1151340,Fallout 76,"14 Apr, 2020",RPG,Bethesda Game Studios,Bethesda Softworks,False,54.95,83598,60371,23227,Mostly Positive

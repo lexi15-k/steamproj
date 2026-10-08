@@ -1,0 +1,17 @@
+# Large raw data files (prevents GitHub 100MB file limit errors)
+data/steam_reviews.csv
+
+# Knitr / LaTeX temporary compilation files
+*.knit.md
+*.utf8.md
+*.tex
+*.log
+*.out
+*.toc
+COMP3020_Report.pdf
+
+# RStudio workspace files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
