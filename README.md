@@ -3,7 +3,7 @@
 We looked at Steam reviews for 24 games that had a public controversy (plus a few well-liked
 games as a comparison) to see when review bombs happen, what people complain about, and whether
 the same players turn up across games. The report is `COMP3020_Report.pdf` and the poster is
-`poster/COMP3020_Poster.pdf`.
+`COMP3020_Poster.pdf`.
 
 ## Data
 
@@ -57,9 +57,8 @@ about 14 minutes. Delete it if you want the script to redo it.
 
 ## Building the report
 
-`COMP3020_Report.Rmd` reads the saved results in `data/` and the images in `figures/`, so it can
+`COMP3020_Report_G5.Rmd` reads the saved results in `data/` and the images in `figures/`, so it can
 be knitted without re-running the analysis. In RStudio, open it and click Knit (it needs a LaTeX
 installation, e.g. `tinytex::install_tinytex()`).
 
-The poster is `poster/poster.html`. We printed it to PDF from Chrome (A1, no margins). It needs
-the `figures/` folder to be next to the `poster/` folder.
+The poster is COMP3020-Poster.pptx (PowerPoint).
